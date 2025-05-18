@@ -1,7 +1,7 @@
 google.com, pub-8005879637653859, DIRECT, f08c47fec0942fa0
 
 OWNERDOMAIN= https://ornate-gnome-e27a7a.netlify.app 
-ironsrc.com, 379521, Direct
+ironsrc.com, 606613, Direct
 
 rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
 video.unrulymedia.com, 2464975885, RESELLER
